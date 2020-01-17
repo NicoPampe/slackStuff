@@ -1,0 +1,20 @@
+{
+  "name": "slackstuff",
+  "version": "1.0.0",
+  "description": "A mega emoji generator.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "emojies",
+    "slack",
+    "mega",
+    "partyParrot"
+  ],
+  "author": "Nico Pampe",
+  "license": "ISC",
+  "dependencies": {
+    "get-image-data": "^4.1.0"
+  }
+}

@@ -1,0 +1,6 @@
+color: false
+
+
+recursive: true
+# reporter: spec
+spec: **/*Spec.js # the positional arguments!
