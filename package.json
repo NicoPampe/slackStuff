@@ -15,6 +15,6 @@
   "author": "Nico Pampe",
   "license": "ISC",
   "dependencies": {
-    "get-image-data": "^4.1.0"
+    "get-image-data": "^5.0.0"
   }
 }
